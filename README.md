@@ -13,9 +13,9 @@ __Все ссылки хранятся__
       - yggdrasil
         - YggdrasilMinecraftSessionService.java
 
-              private final String _profileUrl = "...";
-              private final String _checkUrl = "...";
-              private final String _joinUrl = "...";
+              `#de8624`private final String _profileUrl = "...";
+              `#de8624`private final String _checkUrl = "...";
+              `#de8624`private final String _joinUrl = "...";
 ```
-Из заменяем на свои скрипты.
+Их заменяем на свои скрипты.
 Так же ссылки можно заменить через InClassTranslator или InJarTranslator непосредственно в самом jar файле.
