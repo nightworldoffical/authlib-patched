@@ -12,10 +12,7 @@ __Все ссылки хранятся__
     - authlib
       - yggdrasil
         - YggdrasilMinecraftSessionService.java 
-```
-
-__Поля__
-```
+Поля:
 _profileUrl, _checkUrl, _joinUrl. 
 ```
 Из заменяем на свои скрипты.
