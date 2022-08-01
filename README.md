@@ -13,7 +13,6 @@ __Все ссылки хранятся__
       - yggdrasil
         - YggdrasilMinecraftSessionService.java
         
-              __Поля__ 
               private final String _profileUrl = "...";
               private final String _checkUrl = "...";
               private final String _joinUrl = "...";
