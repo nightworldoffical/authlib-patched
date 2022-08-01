@@ -12,10 +12,11 @@ __Все ссылки хранятся__
     - authlib
       - yggdrasil
         - YggdrasilMinecraftSessionService.java
-
-              <span style="color: #de8624">private final String _profileUrl = "...";<span style="color: green">
-              `#de8624`private final String _checkUrl = "...";
-              `#de8624`private final String _joinUrl = "...";
+        
+              __Поля__ 
+              private final String _profileUrl = "...";
+              private final String _checkUrl = "...";
+              private final String _joinUrl = "...";
 ```
 Их заменяем на свои скрипты.
 Так же ссылки можно заменить через InClassTranslator или InJarTranslator непосредственно в самом jar файле.
