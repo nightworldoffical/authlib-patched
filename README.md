@@ -5,7 +5,16 @@
 
 jars - содержит скомпилированные пропатчиные версии authlib.
 
-Все ссылки хранятся в /com/mojang/authlib/yggdrasil/YggdrasilMinecraftSessionService.java. 
+__Все ссылки хранятся__ 
+```
+- com
+  - mojang
+    - authlib
+      - yggdrasil
+        - YggdrasilMinecraftSessionService.java 
+```
+
+__Поля__
 ```
 _profileUrl, _checkUrl, _joinUrl. 
 ```
